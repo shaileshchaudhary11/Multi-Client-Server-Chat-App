@@ -12,10 +12,10 @@
 volatile sig_atomic_t termination_flag = 0;
 
 /////////////////////////////////////////////////////////////////////////
-//                             ID: 22CS60R70                           //
+//                             ID: 22CS60R37                           //
 //                              CLIENT CODE                            //
 //      How to run?                                                    //
-//      - gcc 22CS60R70_A7_P1_client.c -o client                       //
+//      - gcc 22CS60R37_A7_P1_client.c -o client                       //
 //      - ./client                                                     //
 //                                                                     //
 /////////////////////////////////////////////////////////////////////////
