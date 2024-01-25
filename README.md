@@ -36,7 +36,7 @@ This is a command line chat application that can be used to chat between two use
 To start the server, run the following command:
 
 ```bash
-gcc 22CS60R70_server.c -o server
+gcc 22CS60R37_server.c -o server
 ./server <PORTNUMBER>
 ```
 
@@ -45,7 +45,7 @@ gcc 22CS60R70_server.c -o server
 To start the client, run the following command:
 
 ```bash
-gcc 22CS60R70_client.c -o client
+gcc 22CS60R37_client.c -o client
 ./client <PORTNUMBER>
 ```
 *Open multiple terminals(or tabs) to create miltiple clients to chat*
